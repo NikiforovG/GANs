@@ -9,6 +9,6 @@ Generator creates images from 100-dimentional random vector.
 You may find pritrainned model here: [latest model checkpoint](https://drive.google.com/file/d/1dwFPifERZixZCgk1pe5aMMoraLXtrQMW/view?usp=sharing).
 
 #### Generator's evolution:
-![gif](https://media.giphy.com/media/VEMTqeXAKdkKtkSn4A/giphy.gif)
+![gif](./static/gan.gif)
 ---
 
